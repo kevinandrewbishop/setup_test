@@ -8,4 +8,5 @@ setup(name = 'setup_test',
     author_email = 'kevinandrewbishop@gmail.com',
     license = 'MIT',
     packages = ['setup_test'],
-    zip_safe = False)
+    zip_safe = False,
+    scripts = ['bin/setup_test'])
